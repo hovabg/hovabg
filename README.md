@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in **kan territory & it**
 
-- 👨‍💻 All of my projects are available at [gis.tolkimov.com](https://gis.tolkimov.com/))
+- 👨‍💻 All of my projects are available at [gis.tolkimov.com](https://gis.tolkimov.com/)
 
 - 💬 Ask me about **GIS,Postgresql/Postgis, Geopandas, Geoserver, Geonode,Python**
 
